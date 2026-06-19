@@ -32,7 +32,7 @@ brand = "Piko"
 
 [X.patches]
 "github:crimera/piko" = ["Browse tweet object", "Dynamic color"]
-"gitlab:inotia00/piko-shim" = []
+"gitlab:inotia00/x-shim" = []
 
 [Twitter]
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
@@ -41,7 +41,7 @@ brand = "Piko"
 
 [Twitter.patches]
 "github:crimera/piko" = ["Bring back twitter", "Browse tweet object", "Dynamic color"]
-"gitlab:inotia00/piko-shim" = []
+"gitlab:inotia00/x-shim" = []
 
 [Instagram]
 # uptodown-dlurl = "https://instagram.en.uptodown.com/android"
